@@ -1,2 +1,4 @@
 build/
 framebuffer.tga
+.idea/
+cmake-build-debug/
